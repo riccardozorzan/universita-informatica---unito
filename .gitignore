@@ -1,0 +1,60 @@
+# ─────────────────────────────────────────────────────────────
+# Obsidian
+# ─────────────────────────────────────────────────────────────
+
+# Registra i file aperti e le loro posizioni: cambia a ogni
+# sessione e genererebbe commit inutili. Il resto della config
+# (tema, impostazioni, grafo) resta tracciato.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache interna di Obsidian
+.obsidian/cache/
+
+# Cestino
+.trash/
+
+# Sync di Obsidian (i dati non vanno su Git)
+.obsidian/sync.json
+.obsidian/sync/
+.obsidian/.space/
+
+# Plugin di terze parti (le impostazioni possono contenere chiavi)
+.obsidian/plugins/*/data.json
+
+# ─────────────────────────────────────────────────────────────
+# Sistema operativo
+# ─────────────────────────────────────────────────────────────
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ─────────────────────────────────────────────────────────────
+# Editor e strumenti
+# ─────────────────────────────────────────────────────────────
+
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# File temporanei
+*.tmp
+*.bak
+*.orig
+
+# Ambienti virtuali e dipendenze (se in futuro aggiungi codice)
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
