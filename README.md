@@ -19,6 +19,8 @@ appunti/
 
 Le cartelle sono divise per **anno di corso**. Ogni anno ha un `Indice generale` che mappa tutti i suoi corsi; ogni corso ha almeno un `Indice - <Corso>.md` con codice, crediti, ore, semestre e docenti.
 
+Alcuni corsi hanno anche una cartella `pdf/` con il materiale delle biblioteche. Questi file **restano nel vault** e sono apribili da Obsidian, ma sono esclusi da Git: sono quasi un gigabyte di opere protette da copyright, e Git non li comprimerebbe ulteriormente.
+
 Nel primo anno ci sono anche le note trasversali:
 
 | Nota | A cosa serve |
@@ -42,24 +44,19 @@ Nel primo anno ci sono anche le note trasversali:
 
 ## I corsi del primo anno
 
-| Corso | Codice | CFU | Note |
-|---|---|---|---|
-| **Matematica Discreta, Algebra e Geometria** | INF0328 | 9 | 4 |
-| **Programmazione I** | MFN0582 | 9 | 2 |
-| **Fondamenti dell'Informatica** | INF0348 | 9 | 5 |
-| **Lingua Inglese I** | L-LIN/12 | 3 | 20 |
-| **Analisi Matematica** | MFN0570 | 9 | 3 |
-| **Architettura degli Elaboratori** | INF0326 | 9 | 2 |
-| **Programmazione II** | INF0330 | 9 | 2 |
-| **Ricerca Operativa** | INF0327 | 9 | 2 |
-| **OFA** — Corso di Riallineamento | — | nessuno | 26 |
+| Corso | Codice | CFU | Sem. | Note |
+|---|---|---|---|---|
+| **Matematica Discreta, Algebra e Geometria** | INF0328 | 12 | 1° | I |
+| **Programmazione I** | MFN0582 | 9 | 1° | I |
+| **Fondamenti dell'Informatica** | INF0348 | 9 | 1° | I |
+| **Analisi Matematica** | MFN0570 | 9 | 2° | II |
+| **Architettura degli Elaboratori** | INF0326 | 6 | 2° | II |
+| **Programmazione II** | INF0330 | 6 | 2° | II |
+| **Ricerca Operativa** | INF0327 | 6 | 2° | II |
+| **Lingua Inglese I** | MFN0590 | 3 | 2° | II |
+| **OFA** — Corso di Riallineamento | — | nessuno | — | 9 moduli |
 
-Ogni corso ha almeno due note fisse:
-
-- **`Programma - <Corso>.md`** — il programma ufficiale, con codice, CFU e argomenti
-- **`Indice - <Corso>.md`** — la mappa delle lezioni, con lo stato di ciascuna
-
-> 💡 **Perché gli indici hanno nomi unici.** Ogni corso ha un file `Indice - <Nome>.md` invece del solito `00 - Indice.md`: con molti corsi, file omonimi renderebbero ambigui i link `[[...]]` di Obsidian.
+Totale: **60 CFU**, il carico del primo anno. I dati sono tratti dalle schede ufficiali del corso per l'anno accademico 2026/2027.
 
 ---
 
@@ -72,23 +69,42 @@ Le note usano due simboli:
 | ✅ | **scritta** |
 | 📄 | **da scrivere** (placeholder con il link alla nota futura) |
 
-**Corso di Riallineamento (OFA)** — 9 moduli, **12 lezioni scritte** su 20, più le note di riepilogo:
+**Corso di Riallineamento (OFA) — completo.** Tutti e 9 i moduli sono scritti, per un totale di **19 lezioni**, ciascuna con teoria, esercizi e test di autovalutazione con le risposte.
 
-| Modulo | Stato |
+| Modulo | Lezioni | Stato |
+|---|---|---|
+| 1. Linguaggio, numeri e simbologia | 1.1 · 1.2 | ✅ completo |
+| 2. Fattorizzazione di polinomi | 2.1 | ✅ completo |
+| 3. Equazioni e disequazioni di 1° e 2° grado | 3.1 · 3.2 · 3.3 | ✅ completo |
+| 4. Equazioni fratte, irrazionali, con valore assoluto | 4.1 · 4.2 · 4.3 | ✅ completo |
+| 5. Geometria analitica | 5.1 · 5.2 | ✅ completo |
+| 6. Funzioni reali di variabile reale | 6.1 · 6.2 | ✅ completo |
+| 7. Esponenziali e logaritmi | 7.1 · 7.2 | ✅ completo |
+| 8. Trigonometria | 8.1 · 8.2 | ✅ completo |
+| 9. Statistica e probabilità | 9.1 · 9.2 | ✅ completo |
+
+> 📌 **Il Modulo 9 non è urgente:** probabilità e statistica non fanno parte di nessuno degli esami del primo anno. Chi ha fretta può rimandarlo.
+
+> ⚠️ **Alcune soluzioni del materiale OFA sono imprecise**, e le note le correggono con la verifica in calcolo simbolico. I casi documentati: esercizi 6 e 7 del Modulo 7.2, ed esercizi 6, 7 e 10 del Modulo 8.2.
+
+**Altri corsi del primo anno.** Hanno il programma e l'indice; le note di studio sono iniziate solo dove servono di più:
+
+| Corso | Note di studio |
 |---|---|
-| 1. Linguaggio, numeri e simbologia | ✅ completo |
-| 2. Fattorizzazione di polinomi | ✅ completo |
-| 3. Equazioni e disequazioni di 1° e 2° grado | ✅ completo |
-| 4. Equazioni fratte, irrazionali, con valore assoluto | ✅ completo |
-| 5. Geometria analitica | ✅ completo |
-| 6. Funzioni reali di variabile reale | 🔶 in corso (6.1 scritta) |
-| 7. Esponenziali e logaritmi | 📄 |
-| 8. Trigonometria | 📄 |
-| 9. Statistica e probabilità | 📄 |
+| **Analisi Matematica** | ✅ funzioni elementari |
+| **Lingua Inglese I** | ✅ linkers, condizioni, *used to* |
+| gli altri 6 corsi | 📄 |
 
-> 📌 **Il Modulo 9 non è urgente:** probabilità e statistic non fanno parte di nessuno degli esami del primo anno.
+---
 
-Gli altri corsi hanno il programma e l'indice, e le prime lezioni iniziate.
+## Da dove cominciare
+
+| Vuoi preparare | Parti da |
+|---|---|
+| un esame di matematica | [[Prerequisiti del Primo Anno]] — dice **quali moduli OFA** servono e in che ordine |
+| il test di fine modulo | [[Quadro riassuntivo dei 9 moduli]] — tutte le formule chiave in una pagina, con i trabocchetti |
+| la prima lezione di un corso | `Indice - <Corso>.md`, che rimanda a tutto il resto |
+| come studiare in generale | [[Metodo di Studio]] |
 
 ---
 
@@ -112,7 +128,7 @@ Gli altri corsi hanno il programma e l'indice, e le prime lezioni iniziate.
 
 Le note usano i wikilink `[[...]]`, le callout `> [!info]` e le tabelle, quindi si leggono bene anche fuori da Obsidian (per esempio con Typora, Obsidian mobile o un editor qualsiasi).
 
-> ⚙️ **Se usi Obsidian Sync**: tieni presente che versiona gli stessi file di Git. I due sistemi possono entrare in conflitto. Per questo nel `.gitignore` è escluso `workspace.json`, che cambia a ogni sessione e produrrebbe conflitti inutili.
+> ⚙️ **Se usi Obsidian Sync**: tieni presente che versiona gli stessi file di Git. I due sistemi possono entrare in conflitto. Per questo nel `.gitignore` sono esclusi i file che cambiano a ogni sessione (`workspace.json` e simili) e i PDF delle biblioteche.
 
 ---
 
