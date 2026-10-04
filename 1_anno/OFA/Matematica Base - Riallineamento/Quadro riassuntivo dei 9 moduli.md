@@ -153,6 +153,25 @@ $$\frac{\Delta}{4} = \left(\frac{b}{2}\right)^2 - ac \qquad\Longrightarrow\qquad
 
 ---
 
+### Quadrati perfetti
+
+$$n \in N \text{ è quadrato perfetto} \iff \exists\, k \in N \text{ tale che } n = k^2$$
+
+$$0,\; 1,\; 4,\; 9,\; 16,\; 25,\; 36,\; 49,\; 64,\; 81,\; 100 \dots$$
+
+| Criterio | Regola |
+|---|---|
+| **riconoscimento esatto** | nella fattorizzazione in primi, **tutti gli esponenti sono pari** |
+| **esclusione rapida** | l'ultima cifra può essere solo $0, 1, 4, 5, 6, 9$ |
+| $k^2 \geq 0$ sempre | e $(-k)^2 = k^2$: il segno della base non conta |
+| $0 = 0^2$ | $0$ **è** un quadrato perfetto (caso limite) |
+
+> ⚠️ **L'ultima cifra esclude ma non conferma.** Un numero che termina con $4$ *può* essere quadrato ($4, 64, 144$), ma $24$, $34$, $54$ non lo sono. Serve a **eliminare** i candidati.
+>
+> ⚠️ **Rarissimi:** fra $1$ e $25$ i quadrati perfetti sono solo **5 su 25**. Verificandoli tutti a caso si fa 25 confronti; elencando $k^2$ in progressione ne bastano 10 per arrivare a $100$.
+
+---
+
 ## Modulo 4 — Fratte, irrazionali e valore assoluto
 
 ### Fratte

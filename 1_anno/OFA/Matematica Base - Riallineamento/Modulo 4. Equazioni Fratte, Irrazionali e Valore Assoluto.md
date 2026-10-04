@@ -1,6 +1,6 @@
 # Modulo 4. Equazioni Fratte, Irrazionali e Valore Assoluto
 
-> [!warning] Nota da compilare
+> [!info] Nota completa
 > Materiale del **Modulo 4** del Corso di Riallineamento di Matematica (Orient@mente).
 > Indice del percorso: [[Indice - Matematica Base]] · Indice OFA: [[Indice - OFA]]
 

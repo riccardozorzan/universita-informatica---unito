@@ -62,7 +62,7 @@
 
 ## Come si studia
 
-È un corso molto **meccanico**: gli algoritmi si imparano facendo le tabelle del simplesso e risolvendo i grafi. Vedi [[Algoritmo del Simplesso]] e [[Cammino Minimo]].
+È un corso molto **meccanico**: gli algoritmi si imparano facendo le tabelle del simplesso e risolvendo i grafi. Vedi 📄 [[Algoritmo del Simplesso]] e 📄 [[Cammino Minimo]] *(da scrivere)*.
 
 Attenzione al **largo margine dell'orale** (-16/+6): sostenere l'orale è una decisione, non un obbligo.
 

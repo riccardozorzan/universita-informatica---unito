@@ -70,7 +70,7 @@
 
 ## Lunghezza attesa degli esercizi
 
-Gli esercizi d'esame sono tipicamente: progettare un algoritmo, scriverlo in C, e **simularne l'esecuzione** disegnando memoria e stack. Vedi [[Frame Stack]].
+Gli esercizi d'esame sono tipicamente: progettare un algoritmo, scriverlo in C, e **simularne l'esecuzione** disegnando memoria e stack. Vedi 📄 [[Frame Stack]] *(da scrivere)*.
 
 ## Collegamenti ad altri corsi
 

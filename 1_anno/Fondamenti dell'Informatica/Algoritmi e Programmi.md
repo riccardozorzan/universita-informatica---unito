@@ -1,7 +1,7 @@
 # Algoritmi e Programmi
 
 > [!warning] Nota trasversale
-> Questo argomento **non è nel programma di Fondamenti dell'Informatica** come argomento di esame: è un'introduzione generale che fa da ponte fra i corsi. Il contenuto che esce all'esame di Fondamenti è in [[Algebra di Boole e Porte Logiche]], [[Logica Proposizionale]] e nel blocco linguaggi formali. La programmazione imperativa è invece oggetto di [[Programma - Programmazione I]].
+> Questo argomento **non è nel programma di Fondamenti dell'Informatica** come argomento di esame: è un'introduzione generale che fa da ponte fra i corsi. Il contenuto che esce all'esame di Fondamenti è in 📄 [[Algebra di Boole e Porte Logiche]] e 📄 [[Logica Proposizionale]] *(note da scrivere)*, più nel blocco dei linguaggi formali. La programmazione imperativa è invece oggetto di [[Programma - Programmazione I]].
 
 Fondamenta di tutta l'informatica. Distinguere i due concetti è essenziale.
 

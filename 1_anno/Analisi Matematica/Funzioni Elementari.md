@@ -184,6 +184,6 @@ Voto = media di 2ª e 3ª + bonus del quiz; superato con $\geq 18$.
 - [[Indice - Analisi Matematica]]
 - [[Programma - Analisi Matematica]]
 - [[6.1 Definizione di Funzione e Principali Caratteristiche]] — la versione OFA di questa lezione
-- [[Trasformazioni dei Grafici]] — l'approfondimento
-- [[Composizione di Funzioni]]
+- 📄 [[Trasformazioni dei Grafici]] — l'approfondimento *(da scrivere)*
+- 📄 [[Composizione di Funzioni]] *(da scrivere)*
 - [[Metodo di Studio]] — per come usare le prove d'esame

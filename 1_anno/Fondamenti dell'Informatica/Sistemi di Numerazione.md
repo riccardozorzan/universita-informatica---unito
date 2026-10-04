@@ -140,6 +140,6 @@ Uguale all'addizione, ma con **riporto preso in prestito**:
 
 - [[Programma - Fondamenti dell'Informatica]] — il programma di questo corso
 - [[Codifica dei Caratteri]] — come i caratteri diventano numeri
-- [[Rappresentazione degli Interi]] — complemento a 1 e a 2
-- [[Numeri Reali e IEEE 754]] — la virgola mobile
+- 📄 [[Rappresentazione degli Interi]] — complemento a 1 e a 2 *(da scrivere)*
+- 📄 [[Numeri Reali e IEEE 754]] — la virgola mobile *(da scrivere)*
 - [[Programma - Architettura degli Elaboratori]] — la rappresentazione fisica di tutto questo
