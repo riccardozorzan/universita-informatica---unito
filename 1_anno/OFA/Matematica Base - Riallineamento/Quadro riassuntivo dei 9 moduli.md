@@ -212,6 +212,30 @@ $$x^2 + y^2 + ax + by + c = 0 \qquad C\left(-\frac{a}{2}, -\frac{b}{2}\right) \q
 
 > 💡 Verificato su $x^2 + y^2 - 4x - 6y + 3 = 0$: centro $(2, 3)$, $r^2 = 4 + 9 - 3 = 10$. Il punto $(2, 3 + \sqrt{10})$ soddisfa l'equazione ✅
 
+### Formule geometriche
+
+$$a^2 + b^2 = c^2 \quad\text{(Pitagora, triangolo rettangolo)}$$
+
+$$(\text{minimo})^2 + (\text{intermedio})^2 = (\text{massimo})^2 \quad\text{per QUALSIASI triangolo}$$
+
+$$A_{\triangle} = \tfrac{a \cdot b}{2} \qquad h = \frac{2A}{b} \qquad A_{\text{trapezio}} = \frac{(B + b)\cdot h}{2}$$
+
+$$C = 2\pi r \qquad A_{\text{cerchio}} = \pi r^2 \qquad A_{\text{settore}} = \frac{\alpha^\circ}{360^\circ}\pi r^2$$
+
+$$A' = k^2 A \qquad V' = k^3 V \quad\text{(figure e solidi simili)}$$
+
+| Grandezza | Punto |
+|---|---|
+| baricentro | divide le mediane nel rapporto **2:1** dal vertice |
+| ortocentro | intersezione delle **altezze** |
+| incentro | intersezione delle **bisettrici** |
+
+> ⚠️ **L'area scala con il quadrato, il volume con il cubo.** Raddoppiando la figura l'area quadruplica ma il volume ottuplica.
+>
+> ⚠️ **Nella variante algebrica il segno meno è sempre sull'ipotenusa**: $a = \sqrt{c^2 - b^2}$. Ruoli inverti danno una radice di un numero negativo, che è il sintomo dell'errore.
+>
+> 💡 **Pitagora è il caso limite di Carnot**: con $\alpha = 90^\circ$, $\cos\alpha = 0$ e $a^2 = b^2 + c^2 - 2bc\cdot 0$ diventa esattamente Pitagora. Cenni in [[5.1 La Retta nel Piano Cartesiano]].
+
 ### 🛑 Trabocchetti
 
 | Errore | Perché è sbagliato |
