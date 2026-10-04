@@ -40,6 +40,8 @@ Ogni modulo **poggia** sul precedente. Se una formula non ti torna, il problema 
 | Appartenenza vs inclusione | $x \in A$ (elemento) · $B \subseteq A$ (sottoinsieme) |
 | Insieme delle parti | $\lvert \mathcal{P}(X)\rvert = 2^n$ se $\lvert X\rvert = n$ |
 | Catena numerica | $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$ |
+| **Primo** | $n > 1$ con divisori solo $1$ e $n$. **$1$ non è primo** |
+| **Fattorizzazione dell'aritmetica** | ogni $n \ge 2$ è **unico** prodotto di potenze di primi, a meno dell'ordine |
 | Relazione di equivalenza | **RST** (Riflessiva, Simmetrica, Transitiva) |
 | Relazione d'ordine | **RAT** (Riflessiva, Antisimmetrica, Transitiva) |
 | Funzione iniettiva | elementi distinti ⟹ immagini distinte |
@@ -60,6 +62,22 @@ $$\neg (\forall x \mid P(x)) \iff \exists x \mid \neg P(x) \qquad \neg (\exists 
 In programmazione è la stessa regola: `not (a and b)` ≡ `not a or not b` e `not (a or b)` ≡ `not a and not b`, entrambe verificate esaustivamente. Da NOT sopra AND esce OR, e viceversa.
 
 > ⚠️ **Equivalente ≠ negazione.** $p \Rightarrow q$ equivale a $\neg p \lor q$ (e a $\neg q \Rightarrow \neg p$); la sua **negazione** è $p \land \neg q$. Sono le due risposte da non scambiare.
+
+### La fattorizzazione in fattori primi e le sue tre conseguenze
+
+$$n \ge 2 \quad\Longrightarrow\quad n = p_1^{\alpha_1}\cdot p_2^{\alpha_2}\cdots p_k^{\alpha_k}, \quad \text{primi distinti, } \alpha_i \ge 1$$
+
+L'unicità è la parte che serve: ciascun primo compare **solo col suo esponente**.
+
+| Conseguenza | Criterio |
+|---|---|
+| **quadrato perfetto** | tutti gli esponenti **pari** (basta dimezzarli per la radice) |
+| **decimale finita** | denominatore **ridotto ai minimi termini** con soli fattori **2** e **5** |
+| **potenze di $m^2$** | gli esponenti sono **sempre pari** ⟹ impossibile che $2$ abbia esponente $1$ |
+
+$$\sqrt2 = \frac{m}{n} \Rightarrow m^2 = 2n^2 \;\Rightarrow\; \underbrace{\text{esponente di } 2 \text{ in } m^2}_{\text{pari}} = 1 + \underbrace{\text{esponente di } 2 \text{ in } n^2}_{\text{pari}} \;\Rightarrow\; \text{pari} = 1 + \text{pari} \;\Rightarrow\; \bot$$
+
+> ⚠️ **$0$ non ha scomposizione** (è divisibile per ogni primo), **$1$ è il prodotto vuoto**, e per i negativi il segno è un fattore a sé stante: $-12 = -1\cdot 2^2\cdot 3$, con $-1$ che non è primo.
 
 ### 🛑 Trabocchetti
 
