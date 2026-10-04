@@ -9,6 +9,7 @@
 | **Modulo** | 4 |
 | **Argomenti** | equazioni e disequazioni algebriche fratte, irrazionali e con valore assoluto |
 | **Materiali su Orient@mente** | 3 libri · 3 worksheet Maple T.A. · 2 pagine · 6 file · 4 compiti |
+| **Stato** | ✅ **completo** (4.1, 4.2, 4.3) |
 
 ---
 
@@ -82,15 +83,47 @@
 
 ## Teoria
 
-*(da scrivere)*
+Le **tre parti**, ciascuna con la sua lezione completa:
+
+| Parte | Lezione | Argomento |
+|---|---|---|
+| 4.1 | [[4.1 Equazioni e Disequazioni Fratte]] | campo di esistenza · forma $N/D$ · schema dei segni |
+| 4.2 | [[4.2 Equazioni e Disequazioni Irrazionali]] | radicali · condizioni di esistenza · elevamento a potenze pari |
+| 4.3 | [[4.3 Equazioni e Disequazioni con Valore Assoluto]] | $\lvert A\rvert = k$ · i tre casi sul segno di $k$ · $\lvert x-a\rvert \ge 0$ |
+
+> ⚠️ **Il filo che lega le tre parti è uno solo: i vincoli.** Ogni tipo di equazione introduce una condizione che il valore deve rispettare, e la difficoltà sta quasi sempre nel **non perderla**: il denominatore non può essere $0$, il radicando non può essere negativo, $|x-a| \ge 0$ impone che $x-a$ sia positivo o negativo.
+
+---
 
 ## Esercizi
 
-*(da scrivere)*
+Ogni lezione ha la propria sezione esercizi, con le soluzioni verificate:
+
+| Parte | Esercizi | Contenuto |
+|---|---|---|
+| 4.1 | [[4.1 Equazioni e Disequazioni Fratte]] | 5 equazioni + 5 disequazioni ufficiali, schema dei segni |
+| 4.2 | [[4.2 Equazioni e Disequazioni Irrazionali]] | equazioni e disequazioni con radicali |
+| 4.3 | [[4.3 Equazioni e Disequazioni con Valore Assoluto]] | le scorciatoie veloci e i tre casi |
+
+> ⚠️ **Nelle soluzioni ufficiali ci sono due imprecisioni**, documentate e corrette nelle rispettive lezioni:
+> - **Esercizio 3** (in 4.1): il testo risponde "$\exists x \in R$", che è una **condizione di esistenza** e non l'elenco delle soluzioni. L'equazione ha tre soluzioni reali
+> - **Esercizio 10** (in 4.1): il testo dà solo $x > -2$ e **perde il ramo** $x < -2$
+>
+> ⚠️ **Esercizi 5 e 7** (in 4.1) sono **ambigui nella trascrizione**: l'enunciato non si ricostruisce univocamente, quindi non hanno soluzione riportata.
+
+---
 
 ## Test di autovalutazione
 
-*(da scrivere)*
+Una sezione di test per ogni lezione, con le risposte:
+
+| Parte | Test | Domande |
+|---|---|---|
+| 4.1 | [[4.1 Equazioni e Disequazioni Fratte]] | 7 |
+| 4.2 | [[4.2 Equazioni e Disequazioni Irrazionali]] | 9 |
+| 4.3 | [[4.3 Equazioni e Disequazioni con Valore Assoluto]] | 8 |
+
+> ⚠️ Nel **test finale del modulo 4** le domande si riferiscono **solo all'intervallo visualizzato**, come in tutti i test con grafici.
 
 ---
 

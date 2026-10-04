@@ -33,12 +33,12 @@ Il Corso di Riallineamento di Matematica su **Orient@mente** è strutturato in *
 | 1 | Linguaggio, numeri e simbologia matematica | ✅ [[Modulo 1. Linguaggio, Numeri e Simbologia Matematica]] — completo |
 | 2 | Fattorizzazione di polinomi | ✅ [[Modulo 2. Fattorizzazione di Polinomi]] — completo |
 | 3 | Equazioni e disequazioni di 1° e 2° grado, sistemi | ✅ [[Modulo 3. Equazioni e Disequazioni di 1 e 2 Grado]] — completo |
-| 4 | Equazioni fratte, irrazionali, con valore assoluto | 📄 [[Modulo 4. Equazioni Fratte, Irrazionali e Valore Assoluto]] |
-| 5 | Geometria analitica | 📄 [[Modulo 5. Geometria Analitica]] |
-| 6 | Funzioni reali di variabile reale | 📄 [[Modulo 6. Funzioni Reali di Variabile Reale]] |
-| 7 | Esponenziali e logaritmi | 📄 [[Modulo 7. Esponenziali e Logaritmi]] |
-| 8 | Trigonometria | 📄 [[Modulo 8. Trigonometria]] |
-| 9 | Statistica e probabilità | 📄 [[Modulo 9. Statistica e Probabilità]] |
+| 4 | Equazioni fratte, irrazionali, con valore assoluto | ✅ [[Modulo 4. Equazioni Fratte, Irrazionali e Valore Assoluto]] — completo (4.1, 4.2, 4.3) |
+| 5 | Geometria analitica | ✅ [[Modulo 5. Geometria Analitica]] — completo (5.1, 5.2) |
+| 6 | Funzioni reali di variabile reale | ✅ [[Modulo 6. Funzioni Reali di Variabile Reale]] — completo (6.1 e 6.2) |
+| 7 | Esponenziali e logaritmi | ✅ [[Modulo 7. Esponenziali e Logaritmi]] — completo (7.1 e 7.2) |
+| 8 | Trigonometria | ✅ [[Modulo 8. Trigonometria]] — completo (8.1 e 8.2) |
+| 9 | Statistica e probabilità | ✅ [[Modulo 9. Statistica e Probabilità]] — completo (9.1 e 9.2) |
 
 > 💡 **I moduli sono in ordine vincolante**: ognuno poggia sui precedenti, e ogni modulo finisce con un test. Nei test con grafici, le domande si riferiscono **solo all'intervallo visualizzato**.
 

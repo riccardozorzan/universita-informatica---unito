@@ -7,7 +7,7 @@
 |---|---|
 | **Perché questa nota** | formule e trabocchetti di tutti i 9 moduli, tutte **verificate**, da usare come scheletro nei test |
 | **Copertura** | dal linguaggio alla probabilità |
-| **Stato** | ✅ moduli 1-4 (lezioni scritte) · 📄 moduli 5-9 (da scrivere) |
+| **Stato** | ✅ **tutti e 9 i moduli** (lezioni, esercizi e test dove disponibili) |
 
 ---
 
@@ -45,10 +45,21 @@ Ogni modulo **poggia** sul precedente. Se una formula non ti torna, il problema 
 | Funzione iniettiva | elementi distinti ⟹ immagini distinte |
 | Funzione suriettiva | $f(A) = B$ |
 | Funzione biiettiva | iniettiva ∧ suriettiva ⟹ ammette inversa |
+| **De Morgan (logica)** | $\neg(p \land q) \iff \neg p \lor \neg q$ · $\neg(p \lor q) \iff \neg p \land \neg q$ |
+| **De Morgan (insiemi)** | $(A \cap B)^c = A^c \cup B^c$ · $(A \cup B)^c = A^c \cap B^c$ |
+| Implicazione | $p \Rightarrow q \iff \neg p \lor q$ · negazione: $p \land \neg q$ |
 
-**Accorgimento.** Pensa **binario** per l'insieme delle parti: ogni elemento ha esattamente 2 scelte, entra o no. Negazione dei quantificatori:
+**Accorgimento.** Pensa **binario** per l'insieme delle parti: ogni elemento ha esattamente 2 scelte, entra o no.
 
-$$\neg (\forall x,\ P(x)) \iff \exists x \text{ tale che } \neg P(x)$$
+**La regola madre di tutto il modulo.** Negare significa **cambiare il connettivo** e **negare ogni termine**. Vale per $\land \leftrightarrow \lor$, per $\forall \leftrightarrow \exists$, per $\cap \leftrightarrow \cup$:
+
+$$\neg (\forall x \mid P(x)) \iff \exists x \mid \neg P(x) \qquad \neg (\exists x \mid P(x)) \iff \forall x \mid \neg P(x)$$
+
+**In una riga, in italiano.** «Non (P **e** Q)» vuol dire «non P **o** non Q»: se per smentire una frase con un "e" basta **una** delle due negazioni, per smentire una frase con un "o" servono **entrambe». Nei cerchi: si toglie il centro **unendo** i complementari, si prende lo sfondo **intersecandoli**.
+
+In programmazione è la stessa regola: `not (a and b)` ≡ `not a or not b` e `not (a or b)` ≡ `not a and not b`, entrambe verificate esaustivamente. Da NOT sopra AND esce OR, e viceversa.
+
+> ⚠️ **Equivalente ≠ negazione.** $p \Rightarrow q$ equivale a $\neg p \lor q$ (e a $\neg q \Rightarrow \neg p$); la sua **negazione** è $p \land \neg q$. Sono le due risposte da non scambiare.
 
 ### 🛑 Trabocchetti
 
@@ -58,6 +69,13 @@ $$\neg (\forall x,\ P(x)) \iff \exists x \text{ tale che } \neg P(x)$$
 | scrivere $\{1\} \in A$ con $A = \{1,2\}$ | $\{1\}$ è un **sottoinsieme**: si scrive $\{1\} \subseteq A$ |
 | dimenticare che $\emptyset \subseteq A$ **sempre** | il vuoto è sottoinsieme di **qualunque** insieme |
 | dimenticare che $\emptyset \in \mathcal{P}(A)$ | il vuoto è uno degli **elementi** dell'insieme delle parti |
+| scrivere $(A \cup B)^c = A^c \cup B^c$ | il complementare **scambia** ∪ in ∩: è $A^c \cap B^c$ |
+| scrivere $A \setminus B = A \cap B$ | serve il complementare del **secondo**: è $A \cap B^c$ |
+| dare $\neg p \lor q$ come *negazione* di $p \Rightarrow q$ | quello è l'**equivalente**; la negazione è $p \land \neg q$ |
+| dire che $p \Rightarrow q$ è falsa perché $q$ è falsa | è falsa **solo** se $p$ è vera e $q$ falsa |
+| scrivere $A \cap B \cap C$ per «almeno due su tre» | serve $(A\cap B) \cup (B\cap C) \cup (A\cap C)$ |
+| negare «tutti» scrivendo «nessuno» | la negazione di $\forall$ è $\exists$, non "zero" |
+| applicare De Morgan **a metà**: `not (a and b)` → `not a and not b` | la forma corretta è `not a **or** not b`: metà delle volte dà comunque lo stesso risultato, quindi l'errore passa inosservato |
 
 ---
 
@@ -254,6 +272,24 @@ $$\log_b(x) = \frac{\log_a(x)}{\log_a(b)}$$
 
 $$\left(\frac{1}{2}\right)^x > \left(\frac{1}{2}\right)^3 \;\Longrightarrow\; x < 3$$
 
+### Le 3 regole che risolvono equazioni e disequazioni
+
+| Situazione | Regola |
+|---|---|
+| stessa base, $a>1$ | si confrontano gli **esponenti** (o gli argomenti), verso **mantenuto** |
+| stessa base, $0<a<1$ | si confrontano gli esponenti (o gli argomenti), verso **invertito** ⚠️ |
+| **basi diverse** | si applica $\log$ ad ambo i membri, scegliendo base $c>1$ perché il verso resti invariato |
+
+$$\log_c a^{f(x)} = \log_c b^{g(x)} \;\Longrightarrow\; f(x)\log_c a = g(x)\log_c b$$
+
+$$\log_a f(x) = c \;\Longleftrightarrow\; a^c = f(x) \qquad\qquad \log_a f(x) = \log_a g(x) \;\Longrightarrow\; f(x) = g(x)$$
+
+> ⚠️ **Il verso si può invertire due volte.** Nelle basi diverse, se il denominatore finale è **negativo**, spostare la $x$ **inverte** di nuovo il verso. Verificare sempre il segno.
+
+> ⚠️ **Le condizioni di esistenza non sono un dettaglio.** Un logaritmo con argomento $\leq 0$ **non esiste**: la soluzione trovata che le viola va **rifiutata**. E la disequazione finale va sempre intersecata con il dominio, a volte restringendolo.
+
+> ⚠️ **Esponenziale $\neq$ potenza.** In $a^x$ la $x$ è l'esponente, in $x^a$ è la base. Cambia tutto: $x^2$ non è definita per $x<0$ e non è definita in $0$, $2^x$ lo è ovunque.
+
 ---
 
 ## Modulo 8 — Trigonometria
@@ -262,7 +298,7 @@ $$\left(\frac{1}{2}\right)^x > \left(\frac{1}{2}\right)^3 \;\Longrightarrow\; x 
 
 $$\alpha_{\text{rad}} = \alpha_{\text{gradi}} \cdot \frac{\pi}{180^\circ} \qquad \sin^2 x + \cos^2 x = 1 \qquad \tan x = \frac{\sin x}{\cos x}$$
 
-**C.E. della tangente:** $x \neq \frac{\pi}{2} + k\pi$.
+**C.E. della tangente:** $x \neq \frac{\pi}{2} + k\pi$. **C.E. della cotangente:** $x \neq k\pi$.
 
 ### Valori notevoli
 
@@ -272,6 +308,36 @@ $$\alpha_{\text{rad}} = \alpha_{\text{gradi}} \cdot \frac{\pi}{180^\circ} \qquad
 | $\cos x$ | $1$ | $\frac{\sqrt3}{2}$ | $\frac{\sqrt2}{2}$ | $\frac{1}{2}$ | $0$ |
 | $\tan x$ | $0$ | $\frac{\sqrt3}{3}$ | $1$ | $\sqrt3$ | **N.D.** |
 
+> ⚠️ **Memorizza solo $30^\circ$ e $45^\circ$**, deriva il resto: $\cos 60^\circ = \sin 30^\circ = \frac12$ e $\sin 45^\circ = \cos 45^\circ = \frac{\sqrt2}{2}$.
+
+### Le 3 equazioni da sapere a memoria
+
+| | Condizione | Periodo |
+|---|---|---|
+| $\sin\alpha = \sin\beta$ | $\alpha = \beta + 2k\pi$ **oppure** $\alpha = \pi - \beta + 2k\pi$ (**supplementari**) | $2\pi$ |
+| $\cos\alpha = \cos\beta$ | $\alpha = \beta + 2k\pi$ **oppure** $\alpha = -\beta + 2k\pi$ (**opposti**) | $2\pi$ |
+| $\tan\alpha = \tan\beta$ | $\alpha = \beta + k\pi$ (**un solo caso**) ⚠️ | $\pi$ |
+
+### Le proprietà dei grafici
+
+| | periodo | dominio | limitate | parità |
+|---|---|---|---|---|
+| $\sin x$ | $2\pi$ | $\mathbb{R}$ | ✅ $[-1,1]$ | dispari |
+| $\cos x$ | $2\pi$ | $\mathbb{R}$ | ✅ $[-1,1]$ | pari |
+| $\tan x$ | $\pi$ | $\mathbb{R}\setminus\{\frac\pi2+k\pi\}$ | ❌ no | dispari |
+
+> ⚠️ **Tre controlli che i test sfruttano:**
+> - $\sin x = c$ e $\cos x = c$ hanno soluzione **solo se** $|c| \leq 1$
+> - la relazione $\sin^2+\cos^2=1$ dà il valore **assoluto**: il **segno** si legge dal quadrante
+> - il periodo di $h\sin(kx)$ è $\frac{2\pi}{|k|}$, e il fattore **fuori** dall'argomento non lo cambia
+
+### I triangoli
+
+| Contesto | Formule |
+|---|---|
+| rettangolo | $a = c\sin\alpha = c\cos\beta$ · $a = b\tan\alpha = b\cot\beta$ |
+| **Carnot** | $a^2 = b^2+c^2-2bc\cos\alpha$ |
+| **seni** | $a:\sin\alpha = b:\sin\beta = c:\sin\gamma$ |
 
 ---
 

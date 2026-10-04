@@ -13,7 +13,7 @@
 
 ## La mappa in una riga
 
-$$\underbrace{\text{algebra e logica}}_{\text{Moduli 1-4: fatto}} \;\longrightarrow\; \underbrace{\text{geometria}}_{\text{Modulo 5: fatto}} \;\longrightarrow\; \underbrace{\text{funzioni e trascendenti}}_{\text{Moduli 6-8: da fare}} \;\longrightarrow\; \underbrace{\text{probabilità}}_{\text{Modulo 9: da fare}}$$
+$$\underbrace{\text{algebra e logica}}_{\text{Moduli 1-4: fatto}} \;\longrightarrow\; \underbrace{\text{geometria}}_{\text{Modulo 5: fatto}} \;\longrightarrow\; \underbrace{\text{funzioni e trascendenti}}_{\text{Moduli 6-8: fatto}} \;\longrightarrow\; \underbrace{\text{probabilità}}_{\text{Modulo 9: fatto}}$$
 
 ---
 
@@ -38,13 +38,13 @@ $$\underbrace{\text{algebra e logica}}_{\text{Moduli 1-4: fatto}} \;\longrightar
 
 | Prerequisito | Stato | Note |
 |---|---|---|
-| Dominio, immagine, zeri, segno | 🔶 | definito in [[1.1 Elementi di Teoria degli Insiemi e Logica]] per le funzioni di dominio $\mathbb{R}$ |
-| Monotonia | 🔶 | accennata nelle funzioni reali |
-| Funzioni potenza e quadratiche | 📄 | Modulo 6 |
-| **Esponenziali e logaritmi** | 📄 | Modulo 7 — solo scheda |
-| Equazioni e disequazioni esponenziali e logaritmiche | 📄 | Modulo 7 |
+| Dominio, immagine, zeri, segno | ✅ | [[6.1 Definizione di Funzione e Principali Caratteristiche]] |
+| Monotonia | ✅ | [[6.1 Definizione di Funzione e Principali Caratteristiche]] — sezione 9 |
+| Funzioni potenza e quadratiche | ✅ | [[6.2 Esempi di Funzioni Utili]] · [[6.1 Definizione di Funzione e Principali Caratteristiche]] |
+| **Esponenziali e logaritmi** | ✅ | [[7.1 Esponenziali e Logaritmi]] |
+| Equazioni e disequazioni esponenziali e logaritmiche | ✅ | [[7.2 Equazioni e Disequazioni Esponenziali e Logaritmiche]] |
 
-> ⚠️ **È l'area più carente.** Monotonia, zeri e segno sono definiti in modo generico ma **non studiati sistematicamente**: manca tutto il Modulo 6. È anche l'area più urgente, perché è il **prerequisito diretto di Analisi Matematica**.
+> ✅ **L'area è completa**: i Moduli 6 (6.1 e 6.2) e 7 (7.1 e 7.2) sono stati scritti. Monotonia, zeri e segno sono ora trattati sistematicamente, ed è l'area che dà il **prerequisito diretto di Analisi Matematica**.
 
 ---
 
@@ -59,12 +59,14 @@ $$\underbrace{\text{algebra e logica}}_{\text{Moduli 1-4: fatto}} \;\longrightar
 | Distanza punto-retta | ✅ | [[5.1 La Retta nel Piano Cartesiano]] |
 | Circonferenza e parabola | ✅ | [[5.2 Le Coniche]] |
 | Ellisse e iperbole | ✅ | [[5.2 Le Coniche]] |
-| **Gradi ↔ radianti** | 🔶 | solo menzione nei complessi |
-| **Circonferenza goniometrica** | 📄 | Modulo 8 |
-| **Valori notevoli, $\sin^2+\cos^2=1$** | 📄 | Modulo 8 — nel Quadro riassuntivo |
-| Equazioni goniometriche | 📄 | Modulo 8 |
+| **Gradi ↔ radianti** | ✅ | [[8.1 Funzioni Trigonometriche]] — sezione introduzione |
+| **Circonferenza goniometrica** | ✅ | [[8.1 Funzioni Trigonometriche]] |
+| **Valori notevoli, $\sin^2+\cos^2=1$** | ✅ | [[8.1 Funzioni Trigonometriche]] — sezioni 2 e 3 |
+| Equazioni goniometriche | ✅ | [[8.2 Equazioni e Disequazioni Trigonometriche]] |
 
-> 💡 La geometria analitica è **completa**; la trigonometria non è ancora scritta.
+> ✅ **L'area è completa**: geometria analitica (Modulo 5) e trigonometria (Modulo 8, con 8.1 e 8.2) sono entrambe scritte.
+>
+> 💡 Nella trigonometria c'è anche tutto il calcolo combinatorio e la probabilità, che non compaiono in quest'elenco: vedi [[9.2 Probabilità]].
 
 ---
 
@@ -87,14 +89,18 @@ $$\underbrace{\text{algebra e logica}}_{\text{Moduli 1-4: fatto}} \;\longrightar
 
 ## Dove intervenire
 
-| Priorità | Area | Perché |
-|---|---|---|
-| 1ª | **Modulo 6 — funzioni** | prerequisito diretto di Analisi Matematica; manca tutto lo studio sistematico |
-| 2ª | **Modulo 8 — trigonometria** | serve ad Analisi e alla grafica; le formule sono già nel Quadro riassuntivo |
-| 3ª | **Modulo 7 — logaritmi** | meno urgente, ma le proprietà sono tutte verificate |
-| 4ª | Modulo 9 — probabilità | nessun esame del primo anno lo richiede |
+**Non c'è più nulla da scrivere: tutti e 9 i moduli hanno le lezioni complete.**
 
-> 💡 **Il filo che manca è il dominio di funzione.** È la stessa nozione che in [[4.1 Equazioni e Disequazioni Fratte]] si chiama "campo di esistenza" e che in [[4.2 Equazioni e Disequazioni Irrazionali]] è la condizione sui radicandi: condizione di denominatore $\neq 0$, radicando $\geq 0$ per indice pari, argomento $> 0$ per i logaritmi. Il Modulo 6 è il capitolo in cui le tre cose si uniscono.
+| Priorità | Area | Stato |
+|---|---|---|
+| 1ª | Moduli 1-4 — algebra e logica | ✅ completo |
+| 2ª | Modulo 5 — geometria analitica | ✅ completo |
+| 3ª | Moduli 6-8 — funzioni, logaritmi, trigonometria | ✅ completo |
+| 4ª | Modulo 9 — probabilità | ✅ completo (nessun esame del primo anno lo richiede) |
+
+> 💡 **Il filo che tiene insieme il percorso è il dominio di funzione.** È la stessa nozione che in [[4.1 Equazioni e Disequazioni Fratte]] si chiama "campo di esistenza", che in [[4.2 Equazioni e Disequazioni Irrazionali]] è la condizione sui radicandi e che in [[7.1 Esponenziali e Logaritmi]] è l'obbligo $x > 0$ del logaritmo: condizione di denominatore $\neq 0$, radicando $\geq 0$ per indice pari, argomento $> 0$ per i logaritmi. Il [[6.1 Definizione di Funzione e Principali Caratteristiche]] è il capitolo in cui le tre cose si uniscono.
+
+> ⚠️ **Sono rimaste da scrivere solo le pagine "Test di autovalutazione" di Modulo 7, 8 e 9**, che la piattaforma fornisce ma che non sono ancora state riportate nelle note.
 
 ---
 

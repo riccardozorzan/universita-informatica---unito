@@ -30,8 +30,8 @@
 | 1 | **Linguaggio, numeri e simbologia matematica** | 2 libri · 2 worksheet · 1 pagina · 5 file · 3 test | ✅ [[Modulo 1. Linguaggio, Numeri e Simbologia Matematica]] |
 | 2 | **Fattorizzazione di polinomi** | 1 libro · 1 worksheet · 1 pagina · 2 file · 2 compiti | ✅ [[Modulo 2. Fattorizzazione di Polinomi]] |
 | 3 | **Equazioni e disequazioni algebriche di 1° e 2° grado con una incognita e sistemi di equazioni** | 3 libri · 2 worksheet · 2 pagine · 6 file · 3 compiti | ✅ [[Modulo 3. Equazioni e Disequazioni di 1 e 2 Grado]] |
-| 4 | **Equazioni e disequazioni algebriche fratte, irrazionali, con valore assoluto** | 3 libri · 3 worksheet · 2 pagine · 6 file · 4 compiti | 📄 [[Modulo 4. Equazioni Fratte, Irrazionali e Valore Assoluto]] |
-| 5 | **Geometria analitica** | 2 libri · 2 worksheet · 4 pagine · 4 file · 3 compiti | 📄 [[Modulo 5. Geometria Analitica]] |
+| 4 | **Equazioni e disequazioni algebriche fratte, irrazionali, con valore assoluto** | 3 libri · 3 worksheet · 2 pagine · 6 file · 4 compiti | ✅ [[Modulo 4. Equazioni Fratte, Irrazionali e Valore Assoluto]] |
+| 5 | **Geometria analitica** | 2 libri · 2 worksheet · 4 pagine · 4 file · 3 compiti | ✅ [[Modulo 5. Geometria Analitica]] |
 | 6 | **Funzioni reali di variabile reale** | 2 libri · 2 worksheet · 2 pagine · 5 file · 3 compiti | 🔶 [[Modulo 6. Funzioni Reali di Variabile Reale]] — 6.1 fatto |
 | 7 | **Esponenziali e logaritmi** | 2 libri · 2 worksheet · 3 pagine · 4 file · 3 compiti | 📄 [[Modulo 7. Esponenziali e Logaritmi]] |
 | 8 | **Trigonometria** | 2 libri · 2 worksheet · 3 pagine · 4 file · 3 compiti | 📄 [[Modulo 8. Trigonometria]] |
@@ -59,13 +59,13 @@ Quando un modulo è diviso in parti, ogni parte ha una nota propria.
 | 5 | 5.1 La retta nel piano cartesiano | ✅ [[5.1 La Retta nel Piano Cartesiano]] |
 | 5 | 5.2 Le coniche | ✅ [[5.2 Le Coniche]] |
 | 6 | 6.1 Definizione di funzione e principali caratteristiche | ✅ [[6.1 Definizione di Funzione e Principali Caratteristiche]] |
-| 6 | 6.2 Esempi di funzioni utili | 📄 [[6.2 Esempi di Funzioni Utili]] |
-| 7 | 7.1 Esponenziali e logaritmi | 📄 |
-| 7 | 7.2 Equazioni e disequazioni esponenziali e logaritmiche | 📄 |
-| 8 | 8.1 Funzioni trigonometriche | 📄 |
-| 8 | 8.2 Equazioni e disequazioni trigonometriche | 📄 |
-| 9 | 9.1 Statistica descrittiva | 📄 |
-| 9 | 9.2 Probabilità | 📄 |
+| 6 | 6.2 Esempi di funzioni utili | ✅ [[6.2 Esempi di Funzioni Utili]] |
+| 7 | 7.1 Esponenziali e logaritmi | ✅ [[7.1 Esponenziali e Logaritmi]] |
+| 7 | 7.2 Equazioni e disequazioni esponenziali e logaritmiche | ✅ [[7.2 Equazioni e Disequazioni Esponenziali e Logaritmiche]] |
+| 8 | 8.1 Funzioni trigonometriche | ✅ [[8.1 Funzioni Trigonometriche]] |
+| 8 | 8.2 Equazioni e disequazioni trigonometriche | ✅ [[8.2 Equazioni e Disequazioni Trigonometriche]] |
+| 9 | 9.1 Statistica descrittiva | ✅ [[9.1 Statistica Descrittiva]] |
+| 9 | 9.2 Probabilità | ✅ [[9.2 Probabilità]] |
 
 > 💡 **I titoli delle sezioni sono quelli ufficiali di Orient@mente**, così le note corrispondono una a una alle pagine della piattaforma. Manca solo la nota per alcune introduzioni e applicazioni, che sono brevi e verranno integrate nella lezione corrispondente.
 
