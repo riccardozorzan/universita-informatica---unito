@@ -169,9 +169,24 @@ Le **C.E.** ($D(x) \neq 0$) si impongono **prima** di ogni calcolo. Nelle disequ
 
 ### Valore assoluto
 
-$$|A(x)| = \begin{cases} A(x) & \text{se } A(x) \geq 0 \\ -A(x) & \text{se } A(x) < 0 \end{cases}$$
+$$\lvert A(x)\rvert = \begin{cases} A(x) & \text{se } A(x) \geq 0 \\ -A(x) & \text{se } A(x) < 0 \end{cases}$$
 
-$$|A(x)| < k \iff -k < A(x) < k \qquad |A(x)| > k \iff A(x) < -k \;\vee\; A(x) > k \qquad (k > 0)$$
+$$\lvert A(x)\rvert < k \iff -k < A(x) < k \qquad \lvert A(x)\rvert > k \iff A(x) < -k \;\vee\; A(x) > k \qquad (k > 0)$$
+
+> ⚠️ $\lvert A \rvert = k$ è un **"o"**, mai una "e": i due casi $A = k$ e $A = -k$ sono **alternativi**.
+
+### Modulo e resto
+
+$$a \bmod n = r \quad\text{se}\quad a = nq + r \qquad \text{con } 0 \leq r < n$$
+
+| Serve a | Come |
+|---|---|
+| test di divisibilità | $a$ divisibile per $n \iff a \bmod n = 0$ |
+| pari o dispari | $a$ pari $\iff a \bmod 2 = 0$ |
+| decimale periodico | il denominatore ridotto ha fattori primi $\neq 2, 5$ ⟹ periodico |
+| **quanti** in $[a,b]$ multipli di $n$ | $\lfloor b/n \rfloor - \lfloor (a-1)/n \rfloor$ |
+
+> ⚠️ **Il resto è sempre non negativo**: $-7 \bmod 3 = 2$, non $-1$. Con divisore negativo può essere negativo.
 
 ### 🛑 Trabocchetti
 
@@ -179,6 +194,10 @@ $$|A(x)| < k \iff -k < A(x) < k \qquad |A(x)| > k \iff A(x) < -k \;\vee\; A(x) >
 |---|---|
 | eliminare il denominatore nelle **disequazioni** fratte | il suo segno **varia** e determinerebbe il verso: usa la tabella dei segni |
 | includere gli zeri del denominatore con $\geq 0$ | il denominatore deve essere **sempre** $\neq 0$: pallino vuoto |
+| $\lvert A \rvert = k$ risolto con la **"e"** | i due casi sono alternativi: serve la **"o"** |
+| $\lvert A \rvert$ dato per negativo | è $\geq 0$ per definizione |
+| $-7 \bmod 3 = -1$ | il resto è **non negativo**: vale $2$ |
+| contare in $[a,b]$ con $\lfloor b/n\rfloor - \lfloor a/n\rfloor$ | **esclude** $a$: serve $\lfloor (a-1)/n \rfloor$ |
 
 ---
 
