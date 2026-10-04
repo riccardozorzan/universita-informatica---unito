@@ -3,7 +3,7 @@
 
 # Lingua Inglese I (3 CFU) - Guida allo Studio e Programma Ufficiale
 
-* **Codice Attività Didattica:** ykib (come indicato nel piano studi) | **SSD:** L-LIN/12 (Lingua e Traduzione - Lingua Inglese)
+* **Codice Attività Didattica:** MFN0590 | **SSD:** L-LIN/12 (Lingua e Traduzione - Lingua Inglese)
 * **Carico Orario:** 30 ore complessive di esercitazioni a distanza (erogate in streaming da un Esperto Linguistico).
 * **Semestre:** Secondo semestre (1° anno) | **Tipologia:** Prova Lingua Straniera | **Frequenza:** Facoltativa / A distanza.
 * **Prerequisiti:** Nessun prerequisito propedeutico formale.

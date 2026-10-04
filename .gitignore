@@ -23,6 +23,16 @@
 .obsidian/plugins/*/data.json
 
 # ─────────────────────────────────────────────────────────────
+# Materiali delle biblioteche
+# ─────────────────────────────────────────────────────────────
+# I PDF dei libri (quasi 1 GB) restano nel vault e sono leggibili
+# da Obsidian, ma non vanno su Git: sono gia' compressi (il
+# repository non li comprimerebbe), e sono opere protette da
+# copyright, non ripubblicabili.
+**/pdf/
+*.pdf
+
+# ─────────────────────────────────────────────────────────────
 # Sistema operativo
 # ─────────────────────────────────────────────────────────────
 

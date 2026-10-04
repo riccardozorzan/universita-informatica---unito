@@ -284,7 +284,7 @@ Insegna i modelli matematici e gli algoritmi per l'ottimizzazione decisionale e 
 
 ## 8. Lingua Inglese I (3 CFU)
 
-* **Codice Attività Didattica:** ykib | **SSD:** L-LIN/12 (Lingua e Traduzione Inglese)
+* **Codice Attività Didattica:** MFN0590 | **SSD:** L-LIN/12 (Lingua e Traduzione Inglese)
 * **Carico Orario:** 30 ore di esercitazioni erogate in streaming da Esperto Linguistico.
 * **Semestre:** Secondo semestre | **Tipologia:** Prova Lingua Straniera | **Frequenza:** Facoltativa.
 * **Prerequisiti:** Nessuno. Possibile esonero con riconoscimento certificazioni esterne B1/B2 (domanda APU).

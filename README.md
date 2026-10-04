@@ -12,18 +12,33 @@ Libreria di appunti del **primo anno** del corso di laurea in Informatica dell'U
 ```
 appunti/
 ├── .obsidian/        configurazione del vault
-└── 1_anno/           primo anno di laurea
-    ├── Indice generale.md          mappa di tutti i corsi
-    ├── Piano di Studio.md         il piano studi completo
-    ├── Metodo di Studio.md        come studiare, in 4 fasi
-    ├── Risorse degli studenti.md  materiale utile trovato online
-    ├── OFA/                       Corso di Riallineamento di Matematica
-    └── [una cartella per ogni corso]
+├── 1_anno/           primo anno di laurea
+├── 2_anno/           secondo anno
+└── 3_anno/           terzo anno
 ```
 
-Le cartelle sono divise per **anno di corso**: `1_anno/`, e in futuro `2_anno/` e così via.
+Le cartelle sono divise per **anno di corso**. Ogni anno ha un `Indice generale` che mappa tutti i suoi corsi; ogni corso ha almeno un `Indice - <Corso>.md` con codice, crediti, ore, semestre e docenti.
+
+Nel primo anno ci sono anche le note trasversali:
+
+| Nota | A cosa serve |
+|---|---|
+| `Piano di Studio.md` | il piano studi completo del corso di laurea |
+| `Metodo di Studio.md` | come studiare, in 4 fasi |
+| `Risorse degli studenti.md` | materiale utile trovato online |
+| `OFA/` | Corso di Riallineamento di Matematica |
 
 ---
+
+## Gli anni della laurea
+
+| Anno | Indice | Corsi con indice |
+|---|---|---|
+| **1° anno** | [[Indice generale]] | 8 insegnamenti + OFA, con le lezioni scritte |
+| **2° anno** | [[Indice generale - Secondo Anno]] | 9 insegnamenti |
+| **3° anno** | [[Indice generale - Terzo Anno]] | 20 insegnamenti (elenco da verificare) |
+
+> ⚠️ Gli indici del 2° e 3° anno sono basati sul **documento ufficiale del corso di laurea** per codici, CFU, ore e docenti. Il programma dettagliato è disponibile solo per alcuni corsi; per gli altri l'indice rimanda al Moodle del rispettivo corso. **Gli indici del 3° anno sono da verificare**: l'elenco ufficiale ne conferma soltanto 4.
 
 ## I corsi del primo anno
 

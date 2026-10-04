@@ -46,6 +46,18 @@ Il documento con il piano di studi completo dell'anno, i codici, le bibliografie
 
 ---
 
+## Gli anni successivi
+
+Questa libreria copre tutto il percorso di laurea, non solo il primo anno:
+
+| Anno | Indice | Corsi |
+|---|---|---|
+| **1° anno** | questa nota | 8 insegnamenti + OFA |
+| **2° anno** | [[Indice generale - Secondo Anno]] | 9 insegnamenti |
+| **3° anno** | [[Indice generale - Terzo Anno]] | 20 insegnamenti (elenco da verificare) |
+
+---
+
 ## Percorsi di studio consigliati
 
 **Il percorso più corto per l'informatica pratica:** [[Programma - Programmazione I]] → [[Programma - Programmazione II]] → [[Programma - Architettura degli Elaboratori]]
