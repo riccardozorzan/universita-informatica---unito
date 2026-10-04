@@ -188,6 +188,26 @@ $$a \bmod n = r \quad\text{se}\quad a = nq + r \qquad \text{con } 0 \leq r < n$$
 
 > ⚠️ **Il resto è sempre non negativo**: $-7 \bmod 3 = 2$, non $-1$. Con divisore negativo può essere negativo.
 
+### Coniugato e razionalizzazione
+
+Il **coniugato** si ottiene cambiando di segno il termine radicale nel denominatore. Il prodotto è **razionale**, perché è una differenza di quadrati.
+
+| Denominatore | Coniugato | Prodotto |
+|---|---|---|
+| $\sqrt a + \sqrt b$ | $\sqrt a - \sqrt b$ | $a - b$ |
+| $x + \sqrt a$ | $x - \sqrt a$ | $x^2 - a$ |
+| $a + \sqrt b$ | $a - \sqrt b$ | $a^2 - b$ |
+| $\sqrt a$ (da solo) | $\sqrt a$ | $a$ |
+| $(a + bi)$ in $\mathbb{C}$ | $(a - bi)$ | $a^2 + b^2$ |
+
+$$\frac{1}{\sqrt5 + \sqrt3} = \frac{\sqrt5 - \sqrt3}{2} \qquad \frac{1}{1+\sqrt2} = \sqrt2 - 1 \qquad \frac{1}{2+\sqrt3} = 2-\sqrt3$$
+
+> ⚠️ **Due errori frequenti nella razionalizzazione:**
+> - **il segno**: $\frac{1}{1+\sqrt2}$ dà $\sqrt2 - 1 \approx +0{,}41$, **non** $1-\sqrt2 \approx -0{,}41$. Una frazione positiva non può essere negativa: il segno si corregge moltiplicando numeratore e denominatore per $-1$
+> - **il coniugato nullo**: se $a = 0$, il coniugato di $\sqrt0 - \sqrt0$ è $0$ e la frazione non era definita
+>
+> Con **tre** radicali il coniugato **non basta**: serve un passaggio in più. Non è oggetto di esame, ma spiega **perché** la regola si ferma a due.
+
 ### 🛑 Trabocchetti
 
 | Errore | Perché è sbagliato |
