@@ -334,6 +334,16 @@ $$\text{Logaritmica } y = \log_a(x), \quad a > 0,\ a \neq 1: \quad \mathcal{D} =
 
 Sono **inverse**: $y = \log_a(x) \iff a^y = x$.
 
+### Il numero $e$ — definizione
+
+$$e = \lim_{n\to\infty}\left(1+\frac{1}{n}\right)^{n} \qquad\qquad e = \sum_{k=0}^{\infty}\frac{1}{k!}$$
+
+$$e = 2{,}718281828459045\ldots \qquad \ln(e) = 1 \qquad e = \exp(1) \qquad e^{y} = \sum_{k=0}^{\infty}\frac{y^{k}}{k!}$$
+
+> ⚠️ Il limite serve a **capire** $e$ (interesse composto), la serie a **calcolarlo**: 18 addendi danno 15 cifre corrette.
+
+> ⚠️ $\ln(1+y) \approx y$ vale **solo** per base $e$, con errore $-y^2/2$. In base 10 non vale: $\log_{10}(1{,}001) = 0{,}000434$, sbagliato di un fattore $\ln 10 \approx 2{,}30$.
+
 ### Proprietà
 
 $$\log_a(xy) = \log_a(x) + \log_a(y) \qquad \log_a\left(\frac{x}{y}\right) = \log_a(x) - \log_a(y) \qquad \log_a(x^k) = k\log_a(x)$$
