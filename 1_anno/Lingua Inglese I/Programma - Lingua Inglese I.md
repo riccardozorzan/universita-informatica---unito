@@ -6,6 +6,7 @@
 * **Codice Attività Didattica:** MFN0590 | **SSD:** L-LIN/12 (Lingua e Traduzione - Lingua Inglese)
 * **Carico Orario:** 30 ore complessive di esercitazioni a distanza (erogate in streaming da un Esperto Linguistico).
 * **Semestre:** Secondo semestre (1° anno) | **Tipologia:** Prova Lingua Straniera | **Frequenza:** Facoltativa / A distanza.
+* **Orario ed esercitazioni:** orari pubblicati sull'agenda lezioni di **MyUnito** (2° periodo didattico) · esercitazioni nel **2° semestre**, in modalità **remota**.
 * **Prerequisiti:** Nessun prerequisito propedeutico formale.
 * **Testo di Riferimento Consigliato:** *English Grammar in Use* (con risposte), Raymond Murphy, Cambridge University Press.
 * **Contatti Commissione:** `commissione-inglese@di.unito.it`
@@ -20,18 +21,23 @@ Non sono previste o valutate componenti di produzione scritta (*writing*) o oral
 ---
 
 ## Modalità di Verifica dell'Apprendimento (Esame)
-L'esame si svolge in presenza presso i laboratori informatici dell'Ateneo tramite la piattaforma **SET** ed è articolato in due parti consecutive sostenibili nello stesso appello:
+L'esame si svolge **in presenza** presso i laboratori informatici dell'Ateneo tramite il test **SET** (*Scientific English Test*) ed è articolato in due parti, **entrambe da prenotare** (sotto i nomi **"Inglese 1"** = parte A e **"Inglese 2"** = parte B):
 
-1. **Parte A (Durata: 60 minuti):** 
-   * Prova di verifica grammaticale e sintattica generale.
-   * Il superamento della Parte A è condizione **obbligatoria e vincolante** per poter accedere alla Parte B.
-2. **Parte B (Durata: 30 minuti):** 
-   * Prova focalizzata sulla lettura, skimming/scanning e comprensione di testi di ambito informatico e tecnico.
+1. **Parte A "Inglese 1" — grammatica e lessico:**
+   * Test **adattivo** in **fino a 3 batterie da 19 domande** (20 minuti ciascuna, massimo 60 minuti totali).
+   * Il superamento della Parte A è condizione **obbligatoria e vincolante** per accedere alla Parte B.
+2. **Parte B "Inglese 2" — comprensione:**
+   * **2 testi** di argomento scientifico (8 domande a testo, 16 in totale) in **30 minuti**; servono **almeno 9 risposte giuste**.
    * Il superamento della Parte B completa l'esame.
 
-* **Valutazione:** Automatica e comunicata immediatamente a schermo al termine del test.
-* **Conservazione del risultato:** Chi supera la Parte A in un appello ma non completa la Parte B, negli appelli successivi dovrà sostenere unicamente la Parte B.
-* **Riconoscimento Certificazioni Esterne:** Gli studenti in possesso di una certificazione linguistica ufficiale di livello B1 o B2 (o superiore) possono richiedere l'esonero/riconoscimento dell'esame presentando la domanda online per le APU (Attività Pre-Universitarie).
+* **Valutazione:** automatica e comunicata immediatamente a schermo al termine della prova.
+* **Tentativi:** max **3 all'anno accademico**, di cui max **2 nella stessa sessione**.
+* **Conservazione del risultato:** chi supera la Parte A e non la B si ripresenta alla **sola Parte B**; superata una volta la B, l'esame è concluso.
+* **Prenotazione:** vanno prenotate **entrambe** le parti (codice fiscale come username, matricola come password); la prenotazione della B è accettata anche prima della A, ma la sua esecuzione resta bloccata finché la A non è superata.
+* **Vocabolari:** dizionari e vocabolari **cartacei** consentiti (e incoraggiati); **nessun traduttore online**.
+* **Riconoscimento certificazioni:** con certificazione **≥ B1 QCER** si può ottenere l'esonero (domanda APU, 16 €).
+
+📋 **Regole complete** (soglie delle batterie, avvertenze, FAQ): [[Regole d'esame - Lingua Inglese I]].
 
 ---
 
@@ -65,6 +71,7 @@ L'esame si svolge in presenza presso i laboratori informatici dell'Ateneo tramit
 * **Preposizioni:** Di tempo (*at, in, on*), di luogo, introduzione ai *phrasal verbs* e costrutti verbo + preposizione fissa.
 
 ### Modulo 5: Gerund, Simple Past & Past Continuous
+* **Gerundio:** forma in *-ing* usata come soggetto o complemento (*Swimming is fun*), dopo preposizioni e dopo verbi come *enjoy, avoid, finish* (vedi Modulo 1).
 * **Simple Past:** Azioni concluse nel passato (distinzione tra verbi regolari in *-ed* e verbi irregolari).
 * **Past Continuous:** Azioni continuate nel passato (*was/were + verbo -ing*) e combinazione con il Simple Past per azioni interrotte.
 
@@ -89,19 +96,19 @@ L'esame si svolge in presenza presso i laboratori informatici dell'Ateneo tramit
   * *Uncountable:* Usati solo al singolare senza *a/an* (*software, hardware, information, data, code*). Quantificatori: *some, any, much, a lot of*.
 * **Present Perfect:** Azioni passate con riflesso sul presente (*have/has + participio passato*). Uso di *since* (momento preciso) e *for* (durata).
 
-### Modulo 9: Advanced Compound Tenses
-* **Past Perfect:** Azione passata antecedente a un'altra azione passata (*had + participio passato*).
-* **Past Perfect Continuous:** Azione continuata prima di un riferimento passato (*had been + -ing*).
-* **Future Perfect / Future Perfect Continuous:** Azioni che risulteranno completate entro una data futura (*will have + participio*).
-
-### Modulo 10: Advanced Modals, Acronyms & Reading Signs
+### Modulo 9: Modali, Acronimi & Reading Signs
 * **Modali di Abilità, Permesso e Possibilità:** Uso articolato di *can, could, may, might, should, would*.
 * **Acronimi e Termini Tecnici:** Identificazione di sigle informatiche chiave (*API, CPU, RAM, SQL, HTTP, GUI*).
 * **Reading Signs:** Comprensione di messaggi di sistema, avvisi d'errore e cartelli di sicurezza/istruzioni operative.
 
-### Modulo 11: Passive Voice
-* **Forma Passiva:** Struttura *Soggetto + To Be (coniugato) + Participio Passato (+ by agent)*.
-* Focalizzazione sull'azione e sull'oggetto dell'operazione anziché sull'agente (es. *The bug was fixed*, *Data is processed automatically*).
+### Modulo 10: Social English & Parte B
+* **Social English:** Formule di cortesia, comunicazioni formali/informali via email e registro professionale.
+* **Tipi di domande della Parte B:** domande di dettaglio e di comprensione generale sui testi; strategie di lettura rapida (*skimming* per l'idea generale, *scanning* per dettagli specifici).
+
+### Modulo 11: Past Perfect & Passive Voice
+* **Past Perfect:** *had + participio passato* — azione passata antecedente a un'altra azione passata (*She had left before we arrived*).
+* **Past Perfect Continuous / Future Perfect:** approfondimenti in [[Tempi Composti Avanzati]] (*had been -ing*, *will have + participio*).
+* **Forma Passiva:** Struttura *Soggetto + To Be (coniugato) + Participio Passato (+ by agent)*; focalizzazione sull'azione e sull'oggetto dell'operazione anziché sull'agente (es. *The bug was fixed*, *Data is processed automatically*).
 
 ### Modulo 12: Reported Speech
 * **Discorso Indiretto:** Regole di trasposizione dei tempi verbali (*backshift*):
@@ -109,10 +116,30 @@ L'esame si svolge in presenza presso i laboratori informatici dell'Ateneo tramit
   * Present Continuous $\rightarrow$ Past Continuous
   * *Will $\rightarrow$ Would*, *Can $\rightarrow$ Could*.
 
-### Modulo 13: Social English & Parte B Exam Strategies
-* **Social English:** Formule di cortesia, comunicazioni formali/informali via email e registro professionale.
-* **Strategie per la Parte B:** Tecniche di lettura rapida (*skimming* per l'idea generale, *scanning* per dettagli specifici) applicate a brani scientifici/informatici.
-
-### Modulo 14: Articles, Pronouns & Possessives
+### Modulo 13: Articles, Pronouns & Possessives
 * **Articoli:** Uso di *A/An* (indeterminativo), *The* (determinativo) e *Zero Article* (concetti generali, plurali indefiniti).
-* **Pronomi e Possessivi Avanzati:** Pronomi riflessivi (*myself, itself*), reciproci (*each other*) e dimostrativi (*this, that, these, those*).
+* **Pronomi e Possessivi:** Pronomi riflessivi (*myself, itself*), reciproci (*each other*) e dimostrativi (*this, that, these, those*).
+
+### Modulo 14: Adjectives, Each/Every & Containers
+* **Aggettivi:** posizione prima del sostantivo, ordine e gradazione (comparativi/superlativi — vedi Modulo 2).
+* **Each / Every:** *each* = membri presi singolarmente, *every* = tutti presi collettivamente (*each student / every student*).
+* **Containers:** parole-contenitore e quantità — *a bottle of, a box of, a piece of, a kilo of*...
+
+📄 **Nota da scrivere:** [[Aggettivi, Each-Every e Containers]]
+
+---
+
+## Materiale di Preparazione
+
+* **Parte A (grammatica):** è sufficiente un **manuale di inglese di livello B1**, ad es. *Essential Grammar in Use* (Murphy) o la serie *New English File* (Elementary → Intermediate); la grammatica coperta è quella dei 14 moduli sopra.
+* **Parte B (comprensione):** libri di divulgazione scientifica/informatici in inglese (presenti anche in biblioteca), ad esempio:
+  * B. Downey, *How to Think Like a Computer Scientist*
+  * L. Lovász, K. Vesztergombi, *Discrete Mathematics*
+  * A. Tanenbaum, *Structured Computer Organization*
+  * B. Eckel, *Thinking in Java*
+  * T. Pratt, *Programming Languages: Design and Implementation*
+  * J. Hunt, *Java and Object Orientation*
+  * L. Goldschlager, A. Lister, *Computer Science: A Modern Introduction*
+  * anche la voce *Computer Science* di Wikipedia va benissimo come esercitazione.
+* **Esercizi gratuiti online — grammatica (Parte A):** [English File (OUP)](https://elt.oup.com/student/englishfile/intermediate3/?cc=it&selLanguage=it) · [Grammar exercises (ESL)](https://www.esolcourses.com/content/exercises/grammar/english-grammar.html) · [flo-joe](https://www.flo-joe.co.uk/preliminaryenglish/)
+* **Esercizi gratuiti online — lettura (Parte B):** [Cambridge English – Preliminary for Schools](https://www.cambridgeenglish.org/it/exams-and-tests/preliminary-for-schools/preparation/)
