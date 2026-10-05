@@ -70,6 +70,10 @@ Repository del **Team Studentesco Informatica** dell'Università di Torino, circ
 
 ## Le regole d'esame
 
+📝 **Le regole correnti sono ufficiali** e stanno in 👉 [[Regole d'esame - Matematica Discreta]]: struttura della prova, soglie, materiale ammesso, esiti e voto. Sono il documento del corso, non cambiano da anno a anno.
+
+I PDF qui sotto sono invece le regole **degli anni passati**, prodotte dagli studenti:
+
 🔗 **[regole_esami](https://github.com/tsi-unito/guida_degli_studenti_di/tree/master/Materie/MD/Esami/regole_esami)**
 
 | Anno | File |
@@ -77,7 +81,7 @@ Repository del **Team Studentesco Informatica** dell'Università di Torino, circ
 | 2023-2024 | `regole_2023_2024.pdf` |
 | 2022-2023 | `regole_2022_2023.pdf` |
 
-> ⚠️ **Sono le regole dell'anno specifico**: numero di esercizi, punteggi, soglia, durata, materiali ammessi. **Cambiano**: verifica sulla pagina ufficiale del corso. Le regole **strutturali** (due prove indipendenti, voto come media) sono invece stabili e stanno nella sezione 5 del programma.
+> ⚠️ **Sono le regole dell'anno specifico**: numero di esercizi, punteggi, soglia, durata, materiali ammessi. **Cambiano**: per i dettagli strutturali (due prove indipendenti, quiz + problemi, soglie 6/18, voto come media arrotondata in eccesso) fai fede alla sezione 5 del [[Programma - Matematica Discreta, Algebra e Geometria]] e al documento ufficiale linkato sopra.
 
 
 

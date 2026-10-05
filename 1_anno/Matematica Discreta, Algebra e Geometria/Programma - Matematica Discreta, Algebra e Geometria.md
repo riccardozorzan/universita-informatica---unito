@@ -101,8 +101,12 @@ L'insegnamento sviluppa le competenze necessarie per manipolare oggetti discreti
   1. Parte di **Matematica Discreta**.
   2. Parte di **Algebra Lineare e Geometria**.
 * **Flessibilità degli Appelli:** È possibile sostenere le due parti in appelli o sessioni differenti nello stesso anno accademico.
-* **Tipologia della Prova:** Prova scritta contenente sia quesiti teorici (definizioni, enunciati e dimostrazioni) sia esercizi applicativi/numerici.
-* **Calcolo del Voto Finale:** Espresso in trentesimi ($0 - 30$), calcolato come **media aritmetica** dei punteggi ottenuti nelle due parti scritte.
+* **Struttura della prova di MD** (testo ufficiale completo in 👉 [[Regole d'esame - Matematica Discreta]]):
+  * **Quiz a risposta multipla:** 10 domande con 5 risposte ciascuna (1 sola corretta) — 1 punto per quella giusta, 0 per errata o omessa. Serve **almeno 6 punti**: sotto quella soglia la prova è fallita e i problemi **non vengono neanche corretti**.
+  * **Due problemi scritti**, eventualmente suddivisi in domande con punteggi espliciti. Punti del quiz + punti dei problemi = totale.
+  * **Prova superata con almeno 18 punti totali**, in **120 minuti**. Ammessi libro, appunti e calcolatrice non programmabile; smartphone **spenti**.
+* **Annullamento:** ogni nuova prova annulla le precedenti (tranne il ritiro) — conviene presentarsi solo quando si è pronti.
+* **Calcolo del Voto Finale:** Voto unico dei 12 CFU in trentesimi ($0 - 30$), calcolato come **media aritmetica** dei punteggi delle due prove, se necessario **arrotondata in eccesso**. Subito dopo si può **rifiutare**.
 
 ---
 

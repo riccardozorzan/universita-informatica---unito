@@ -6,6 +6,8 @@
 
 > 📚 **Materiale esterno utile:** [[Risorse esterne]] raccoglie le **prove d'esame degli anni passati con le soluzioni** (dal 2010 al 2024), i formulari e gli appunti del Team Studentesco. Non è materiale ufficiale, ma le tracce vere sono la risorsa migliore per capire il taglio dell'esame.
 
+> 📝 **Regole ufficiali della prova:** [[Regole d'esame - Matematica Discreta]] — struttura (quiz 10 domande + 2 problemi), le due soglie (**quiz ≥ 6**, **totale ≥ 18**), materiale ammesso, esiti e calcolo del voto finale.
+
 | | |
 |---|---|
 | **Codice** | INF0328 · SSD MAT/02 (Algebra), MAT/03 (Geometria) |
