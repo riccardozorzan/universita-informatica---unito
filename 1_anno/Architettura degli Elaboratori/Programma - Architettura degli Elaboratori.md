@@ -23,6 +23,21 @@
   * *Fondamenti dell'Informatica* (1° semestre)
   * Si richiede la conoscenza dei concetti fondamentali della programmazione imperativa e la capacità di progettare semplici algoritmi.
 
+### Informazioni operative (a.a. 2026/2027)
+
+* **Prima lezione:** la lezione introduttiva è in programma per **febbraio 2027** (2° semestre).
+* **Canali e turni:** il corso è articolato su **tre canali (A, B, C)** con orari pubblicati sull'agenda UniTO. L'appartenenza al **turno T1 o T2** dipende dall'**ultima cifra del numero di matricola**:
+
+  | Ultima cifra della matricola | Turno |
+  |---|---|
+  | **pari** | **T2** |
+  | **dispari** | **T1** |
+
+  Esempio: matricola `986734` → ultima cifra `4` (pari) → **T2**.
+
+* **Corsi A, B e C:** il programma svolto è **lo stesso** per i tre corsi e anche le **modalità d'esame sono le stesse**, illustrate durante il corso. In ogni caso i compiti degli studenti del corso X vengono esaminati dai docenti del corso X.
+* **Valutazione del corso obbligatoria:** alla fine del corso sei tenuto a dare una tua valutazione del corso — **senza di essa non è consentita l'iscrizione all'esame**.
+
 ---
 
 ## 2. Obiettivi Formativi e Risultati di Apprendimento
@@ -91,6 +106,10 @@ L'insegnamento ha lo scopo di fornire agli studenti la comprensione dell'organiz
 ---
 
 ## 4. Modalità d'Esame e Valutazione
+
+> ⚠️ **Prerequisito per l'iscrizione:** non puoi iscriverti all'esame se non hai prima completato la **valutazione del corso** (vedi §1 — Informazioni operative). È l'unico prerequisito "amministrativo", oltre ai requisiti di crediti.
+
+Le modalità sono **le stesse per i corsi A, B e C** e vengono illustrate durante il corso.
 
 L'esame consiste in una prova scritta e in una prova orale obbligatoria, valutate in trentesimi (con eventuale lode).
 

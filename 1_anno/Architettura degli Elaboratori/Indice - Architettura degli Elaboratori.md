@@ -15,6 +15,10 @@
 
 > ⚠️ **Attenzione:** il corso è costruito interamente su **RISC-V**, non sull'architettura x86 e non sul modello di von Neumann classico. Studia la ISA RISC-V.
 
+> 🔢 **Turno di laboratorio:** ultima cifra della matricola — **pari → T2**, **dispari → T1** (es. `986734` → `4` → T2). Prima lezione: **febbraio 2027**, canali A/B/C.
+
+> 📝 **Prima di iscriverti all'esame** devi aver completato la **valutazione del corso** — è obbligatoria e senza di essa l'iscrizione non è consentita.
+
 ---
 
 ## Modulo A — Teoria
