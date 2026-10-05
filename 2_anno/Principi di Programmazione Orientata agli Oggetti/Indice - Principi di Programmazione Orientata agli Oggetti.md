@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Liliana Ardissono, Viviana Bono, Jeremy James Sproston, Sara Capecchi, Luigi Di Caro, Elisa Marengo
 
 | | |
 |---|---|

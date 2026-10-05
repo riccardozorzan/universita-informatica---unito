@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Andras Horvath, Ugo De' Liguoro, Diego Magro, Giorgio Audrito, Idilio Drago, Mirko Polato
 > **English-friendly**
 
 | | |

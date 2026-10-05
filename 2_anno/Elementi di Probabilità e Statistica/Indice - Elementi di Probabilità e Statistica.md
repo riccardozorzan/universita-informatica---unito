@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Federico Polito, Cristina Zucca, Luisa Andreis
 > **English-friendly**
 
 | | |

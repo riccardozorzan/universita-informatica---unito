@@ -79,12 +79,3 @@ La parte A dura **al massimo 60 minuti** (3 batterie × 20); con ≥ 13 su 19 gi
 | **Richiesta** | domanda di riconoscimento crediti via **APU**: `di.unito.it/aputarm` |
 | **Costo** | **16 €** (marca da bollo) all'atto della presentazione in Segreteria |
 | **Attenzione** | il riconoscimento **non vale per Inglese II** |
-
----
-
-## 7. Info utili
-
-* **Studenti lavoratrici/lavoratori:** i moduli sono disponibili presso la **portineria del Dipartimento di Informatica** (1° piano).
-* **Attestazione di partecipazione** all'esame (da mostrare al lavoro): modulo in portineria, da far **firmare al termine della prova**.
-* **Comunicazioni** sugli esami di inglese: solo all'indirizzo della commissione `commissione-inglese@di.unito.it`, non ai singoli docenti.
-* **Esercitazioni:** si tengono nel **2° semestre**, in modalità remota.

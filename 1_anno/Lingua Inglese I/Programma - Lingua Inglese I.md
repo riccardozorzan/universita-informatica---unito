@@ -141,5 +141,5 @@ L'esame si svolge **in presenza** presso i laboratori informatici dell'Ateneo tr
   * J. Hunt, *Java and Object Orientation*
   * L. Goldschlager, A. Lister, *Computer Science: A Modern Introduction*
   * anche la voce *Computer Science* di Wikipedia va benissimo come esercitazione.
-* **Esercizi gratuiti online — grammatica (Parte A):** [English File (OUP)](https://elt.oup.com/student/englishfile/intermediate3/?cc=it&selLanguage=it) · [Grammar exercises (ESL)](https://www.esolcourses.com/content/exercises/grammar/english-grammar.html) · [flo-joe](https://www.flo-joe.co.uk/preliminaryenglish/)
+* **Esercizi gratuiti online — grammatica (Parte A):** [English File (OUP)](https://elt.oup.com/student/englishfile/intermediate3/?cc=it&selLanguage=it) · [flo-joe](https://www.flo-joe.co.uk/preliminaryenglish/)
 * **Esercizi gratuiti online — lettura (Parte B):** [Cambridge English – Preliminary for Schools](https://www.cambridgeenglish.org/it/exams-and-tests/preliminary-for-schools/preparation/)

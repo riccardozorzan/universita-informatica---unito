@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Lea Iaia, Marco Pironti
 
 | | |
 |---|---|

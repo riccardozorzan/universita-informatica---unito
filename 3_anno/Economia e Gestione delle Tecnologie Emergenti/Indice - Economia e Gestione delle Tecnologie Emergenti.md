@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Marco Pironti, Lea Iaia
 
 > [!warning] Fonte non ufficiale
 > Questo indice è basato sul documento del **Team Studentesco**, non sul documento ufficiale del corso di laurea che riporta i programmi. Codice, crediti e docenti vanno **verificati** su Campusnet o sul Moodle del corso.

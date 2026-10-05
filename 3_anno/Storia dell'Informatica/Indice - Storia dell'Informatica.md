@@ -11,7 +11,6 @@
 |---|---|
 | **Codice** | INF0004 |
 | **Crediti** | 6 CFU |
-| **Docenti** | Daniele Gunetti (1ª parte) · Felice Cardone (2ª parte) |
 | **Esame** | Scritto, **articolato in due parti** relative ai due semestri. Le parti si possono sostenere **in appelli diversi**; il voto finale è la **media approssimata per eccesso** |
 
 > ⚠️ **Due parti, due docenti, due semestri.** Non è un corso unico ma due, e puoi superarli separatamente.

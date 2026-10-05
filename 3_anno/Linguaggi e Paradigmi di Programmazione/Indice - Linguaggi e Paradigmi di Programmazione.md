@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Viviana Bono, Luca Roversi
 > **English-friendly**
 
 | | |

@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Luca Anselma, Fabiana Vernero, Ruggero Gaetano Pensa, Gianluca Rizzo, Valerio Basile
 > **English-friendly**
 
 | | |

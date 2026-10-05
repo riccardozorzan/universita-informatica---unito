@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Cristina Gena, Fabio Ciravegna
 > **English-friendly**
 
 > [!warning] Fonte non ufficiale

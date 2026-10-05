@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Andrea Bracciali, Claudio Schifanella
 > **Taught in English**
 
 | | |

@@ -61,7 +61,7 @@ L'insegnamento fornisce un'introduzione rigorosa alla matematica discreta, all'a
 
 ### Informazioni Utili ed Esame
 * **Modalità d'esame:** Prova scritta obbligatoria su Moodle/carta. Supporto di tutorato opzionale (2 ore/settimana).
-* **Testo consigliato:** Note del corso (Prof. A. Mori / Prof.ssa M. Roggero).
+* **Testo consigliato:** Note del corso
 
 ---
 

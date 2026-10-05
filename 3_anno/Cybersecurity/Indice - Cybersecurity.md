@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docente:** Francesco Bergadano
 > **English-friendly**
 
 > [!warning] Fonte non ufficiale

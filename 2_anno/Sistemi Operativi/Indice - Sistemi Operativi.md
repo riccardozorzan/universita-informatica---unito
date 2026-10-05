@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Daniele Gunetti, Daniele Paolo Radicioni, Marco Aldinucci, Marco Botta, Enrico Bini
 > **English-friendly**
 
 | | |

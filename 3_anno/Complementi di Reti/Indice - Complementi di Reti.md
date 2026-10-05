@@ -2,7 +2,6 @@
 
 > [!info] Mappa del corso
 > **Legenda:** ✅ scritto · 📄 da scrivere
-> **Docenti:** Michele Garetto, Gianluca Rizzo
 > **Taught in English**
 
 > [!warning] Fonte non ufficiale
